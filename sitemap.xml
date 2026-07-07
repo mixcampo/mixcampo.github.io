@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<!-- HOME (mais importante) -->
+<url>
+    <loc>https://mixcampo.github.io/</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+</url>
+
+<!-- PRODUTOS (ordem por relevância) -->
+
+<url>
+    <loc>https://mixcampo.github.io/produtos/racao-para-tartaruga-terrestre-vegetais.html</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+<url>
+    <loc>https://mixcampo.github.io/produtos/racao-para-tartaruga-aquatica.html</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+</url>
+
+<url>
+    <loc>https://mixcampo.github.io/produtos/racao-para-peixes-carpas-kinguios-ck1.html</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+</url>
+
+<url>
+    <loc>https://mixcampo.github.io/produtos/racao-para-peixes-carpas-kinguios-ck2.html</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+</url>
+
+<url>
+    <loc>https://mixcampo.github.io/produtos/racao-para-peixe-meia-agua-onivoros-bits.html</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+</url>
+
+<url>
+    <loc>https://mixcampo.github.io/produtos/racao-para-peixe-meia-agua-carnivoros-bits.html</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+</url>
+
+<url>
+    <loc>https://mixcampo.github.io/produtos/racao-de-fundo-para-peixe-carnivoro.html</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+</url>
+
+<url>
+    <loc>https://mixcampo.github.io/produtos/racao-de-fundo-para-peixe-onivoro.html</loc>
+    <lastmod>2026-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+</url>
+
+</urlset>

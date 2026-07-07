@@ -1,0 +1,17 @@
+{
+  "shopee": {
+    "nome": "Shopee",
+    "icone": "🛒",
+    "url": "https://shopee.com.br/mixcampoclass#product_list"
+  },
+  "mercadolivre": {
+    "nome": "Mercado Livre",
+    "icone": "🛒",
+    "url": "https://www.mercadolivre.com.br/pagina/mixcampo"
+  },
+  "lojaintegrada": {
+    "nome": "Loja Oficial",
+    "icone": "🌐",
+    "url": "https://mix-campo.lojaintegrada.com.br/"
+  }
+}
